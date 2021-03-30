@@ -1,7 +1,5 @@
 ### Hi 👋, Welcome to my GitHub
 
-<!--
-
 I am Leo Veron, a French Data Analyst & Data Scientist!
 
 👯 I’m looking to join a data team to learn and practice Data Science
@@ -15,4 +13,4 @@ Some of my tech skills 👇:
 -Deep Learning (CNN, RNN, NLP) with TensorFlow and Keras
 -Data Engineering (deploy code and train model on Google Cloud Platform, build an API with FastAPI, create a Docker image and deploy it on Google Run or Heroku)
 
--->
+
