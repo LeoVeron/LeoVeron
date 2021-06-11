@@ -10,6 +10,7 @@
 
 - Python app (Flask, Streamlit)
 - Docker, Celery, Redis, SQL
+- Linux classic command, File systems and Networking
 - Data Analytics with BigQuery, Pandas, Numpy, and Matplotlib
 - Machine Learning with Statsmodels and Scikit-learn
 - Deep Learning (CNN, RNN, NLP) with TensorFlow and Keras
